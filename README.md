@@ -1,7 +1,7 @@
 Hello, I'm @SergeantBiggs
 
 If you want to know more about me and the projects I do, feel free to follow me on
-Twitter or read my blog
+Mastodon or read my blog
 
-- [Twitter](https://twitter.com/SergeantBiggs)
+- [Mastodon](https://infosec.exchange/@SergeantBiggs)
 - [Blog](https://sergeantbiggs.net)
